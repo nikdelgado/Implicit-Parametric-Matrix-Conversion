@@ -1,0 +1,1 @@
+This program reads in a data file with implicit and parametric values and converts between the two as well as point normal form. This program was made for a class assignmnent in computational linear algebra
